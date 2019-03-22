@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_video_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_video_progress.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_download_progress_bar_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_download_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_leftbackbutton_titlebar_photo_preview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_leftbackbutton_titlebar_photo_preview.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sec_dlg_shap.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\sec_dlg_shap.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_browser_download_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_browser_download_selector.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_shadow_btn_back.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_shadow_btn_back.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_dislike_cancle_bg_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_dislike_cancle_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_stop_movebar_textpage.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_stop_movebar_textpage.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_titlebar_close_seletor.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_titlebar_close_seletor.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_ad_download_progress_bar_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_ad_download_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_play_movebar_textpage.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_play_movebar_textpage.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_detail_download_progress_bar_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_detail_download_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_detail_video_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_detail_video_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_thumb_press.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_thumb_press.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_download_corner_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_download_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_detail_download_success_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_detail_download_success_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_thumb_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_ad_cover_btn_draw_begin_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_ad_cover_btn_draw_begin_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_skip_text_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_skip_text_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_video_black_desc_gradient.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_video_black_desc_gradient.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_ad_skip_btn_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_ad_skip_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_action_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_action_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_detail_download_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_detail_download_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_circle_solid_mian.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_circle_solid_mian.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_ad_cover_btn_begin_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_ad_cover_btn_begin_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sec_dlg_btn_shap.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\sec_dlg_btn_shap.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_refreshing_video_textpage.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_refreshing_video_textpage.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_reward_countdown_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_reward_countdown_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_thumb_fullscreen_press.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_thumb_fullscreen_press.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_thumb_fullscreen.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_thumb_fullscreen.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_progress.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_close_move_detail.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_close_move_detail.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_thumb_fullscreen_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_thumb_fullscreen_selector.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_leftbackicon_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_leftbackicon_selector.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_download_progress_bar_horizontal_night.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_download_progress_bar_horizontal_night.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_video_loading_progress_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_video_loading_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_video_traffic_continue_play_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_video_traffic_continue_play_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_leftbackicon_selector_for_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_leftbackicon_selector_for_dark.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_dislike_top_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_dislike_top_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_dislike_bottom_seletor.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_dislike_bottom_seletor.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_dislike_middle_seletor.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_dislike_middle_seletor.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appdownloader_ad_detail_download_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\appdownloader_ad_detail_download_progress.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_titlebar_close_seletor_for_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_titlebar_close_seletor_for_dark.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_shadow_btn_back_withoutnight.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_shadow_btn_back_withoutnight.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6d5505486645d1aa6ebb5c790e659a1e43bb46a1\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\cw\\ad_chuanshanjia\\Demo_cwsdk_tt\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tt_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9a7b02498e5fb29f36a05d3c596c56b5ded4b1ef\\output\\res\\drawable\\tt_seek_thumb.xml"
+    }
+]
